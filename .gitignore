@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Whisper model cache (downloaded at runtime, not committed)
+~/.cache/whisper/
+
+# Porcupine keyword files (if any custom ones are generated)
+*.ppn
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / API keys — NEVER commit these
+.env
+secrets.py
+
+# Logs
+*.log
+iris.log
+
+# IDE
+.vscode/
+.idea/
+*.swp

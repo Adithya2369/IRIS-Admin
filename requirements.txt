@@ -1,0 +1,15 @@
+# IRIS Admin — Python dependencies
+# These are required only for the admin layer (iris_admin.py).
+# Each module has its own requirements.txt inside modules/<name>/.
+
+# Wake word detection
+pvporcupine>=3.0.0
+
+# Audio I/O
+pyaudio>=0.2.14
+
+# Speech-to-text (offline, runs on Raspberry Pi)
+openai-whisper>=20231117
+
+# Text-to-speech (offline)
+pyttsx3>=2.90

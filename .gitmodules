@@ -1,0 +1,21 @@
+[submodule "modules/gps_navigation"]
+	path = modules/gps_navigation
+	url = https://github.com/Adithya2369/Voice-Guided-GPS-Navigation-for-the-Visually-Impaired.git
+[submodule "modules/hybrid_navigation"]
+	path = modules/hybrid_navigation
+	url = https://github.com/Adithya2369/VisionAid-AI-Navigation-Assistant-for-the-Visually-Impaired.git
+[submodule "modules/obstacle_navigation"]
+	path = modules/obstacle_navigation
+	url = https://github.com/Adithya2369/AI-Vision-Assistant-for-the-Blind.git
+[submodule "modules/face_recognition"]
+	path = modules/face_recognition
+	url = https://github.com/Adithya2369/AI-Vision-Assistant-for-Real-Time-Face-Recognition.git
+[submodule "modules/email_assistant"]
+	path = modules/email_assistant
+	url = https://github.com/Adithya2369/AI-Voice-Based-Email-Assistant.git
+[submodule "modules/scene_narrator"]
+	path = modules/scene_narrator
+	url = https://github.com/Adithya2369/AI-Scene-Narrator.git
+[submodule "modules/sos_alert"]
+	path = modules/sos_alert
+	url = https://github.com/Adithya2369/Smart-SOS-alert-system.git
